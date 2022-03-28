@@ -5,9 +5,8 @@
       "type": "eventGridTrigger",
       "name": "event",
       "direction": "in",
-	  "eventHubName": "testhub", 
-	  "connection": "Endpoint=sb://eventhub300.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=oZT1N+WT4o81qBmC5Ks4TAtjyyz98BrnQYE1DdU0kgg="
+      "eventHubName": "eventHubsNamespace300", 
+      "connection": "Endpoint=sb://eventhubsnamespace300.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=0ParqNXO+majoHoxoR9aIIAiHSp40xlSIwBvtS+k57Y="
     }
   ]
 }
-
